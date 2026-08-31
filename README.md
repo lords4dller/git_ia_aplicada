@@ -2,7 +2,7 @@
 Repositório para fins educacionais para o curso de IA da EsCom
 
 
-
+asdasdasdasd
 # Lista de Presença - Treinamento Git e GitHub
 
 Este arquivo é destinado à prática de comandos básicos do Git (add, commit, push, pull).
