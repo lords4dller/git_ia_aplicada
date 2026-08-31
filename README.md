@@ -36,4 +36,4 @@ Este arquivo é destinado à prática de comandos básicos do Git (add, commit, 
 17. [Nome do Aluno] - [Distribuição Linux]
 18. [Nome do Aluno] - [Distribuição Linux]
 19. [Nome do Aluno] - [Distribuição Linux]
-20. [Nome do Aluno] - [Distribuição Linux]
+20. Sgt Conte - Kali Linux
